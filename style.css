@@ -1,0 +1,28 @@
+#banner {
+  padding-right: 880px;
+}
+
+#center {
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+
+mark.blue {
+  color: blue;
+  background-color: black;
+}
+
+mark.green {
+  color: green;
+  background-color: black;
+}
+
+p {
+  color: white;
+  font-size: 40px;
+}
+
+body {
+  background-color: black;
+}
